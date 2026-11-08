@@ -45,5 +45,5 @@ shift to pushing their solution?* Weight this above everything else.
 
 **Try this instead:** "<quoted push line>" → "<rewritten pull question>"
 
-Run it again, try another scenario (1–7), or `random`?
+Run it again, try another scenario (1–8), or `random`?
 ```

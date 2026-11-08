@@ -1,6 +1,6 @@
 ---
 name: pull-practice
-description: Role-play practice for Rob Snyder's PULL demand-discovery conversations. Simulates a realistic buyer (some with real PULL, some with none) at conversational speed, then scores the user 1-5 on whether they stayed curious or slipped into pushing their solution. Use when the user says "PULL practice", "practice a discovery call", "simulate a buyer", "/pull-practice", or wants to rehearse customer conversations without pitching.
+description: Role-play practice for Rob Snyder's PULL demand-discovery conversations. Simulates a realistic K-12 buyer — curriculum coordinator, instructional coach, teacher, or superintendent — some with real PULL, some with none, at conversational speed, then scores the user 1-5 on whether they stayed curious or slipped into pushing their solution. Use when the user says "PULL practice", "practice a discovery call", "simulate a buyer", "/pull-practice", or wants to rehearse customer conversations without pitching.
 ---
 
 # PULL Conversation Simulator
@@ -29,7 +29,7 @@ that try to manufacture a problem.
    If they say "random"/"surprise me", pick one **without revealing whether it has PULL**.
    Adapt the persona's details to what the user sells.
 2. **Open in character.** One line of stage direction in italics (who you are, the setting),
-   then the buyer's first line. Example: *Discovery call, VP Ops at a 200-person logistics firm. 25 min booked.* "Hey — so, you wanted to chat?"
+   then the buyer's first line. Example: *Zoom call, K-5 ELA coordinator, suburban district. 30 min booked, she joins 2 min late.* "Sorry — back-to-back today. So what did you want to chat about?"
 3. **Play the buyer** until the user types `end`, `score`, `/score`, or the call naturally ends
    (buyer hangs up, books a next step, or ~15 exchanges pass — then say "*[call wraps]*" and score).
 4. **Score** using `references/rubric.md`.

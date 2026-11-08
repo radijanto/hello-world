@@ -1,82 +1,114 @@
-# Scenarios
+# Scenarios — K-12
 
 Each scenario has a public setup (shown at the start) and a **hidden truth** (never reveal
-until scoring). Adapt the industry details to what the user sells so the scenario is plausible.
-When picking "random", choose roughly half PULL and half NO PULL.
+until scoring). Adapt details to what the user sells (curriculum, edtech, PD, services, etc.)
+so the scenario is plausible. When picking "random", choose roughly half PULL and half NO PULL.
+
+## K-12 realism notes (use these to make the buyer feel real)
+- **Calendar drives everything:** budgets set Feb–May for next school year; fiscal year often ends
+  June 30; summer is the PD/implementation window; Aug–Oct nobody has time for new things.
+- **Funding sources matter:** general fund, Title I / II / IV, state grants, one-time money with
+  spend-by deadlines. "Use it or lose it" is a real forcing function.
+- **Decision chain is layered:** teachers and coaches use it, coordinators evaluate and pilot,
+  assistant superintendents / CAOs own the budget, superintendents and the board approve.
+  Many people can say no; few can say yes.
+- **Common unavoidables:** state law/mandates (e.g., science of reading), accountability ratings,
+  state assessment results, board goals, adoption cycles, staffing shortages, union contracts.
+- **Talk like educators:** PLCs, MTSS, walkthroughs, pacing guides, "initiative fatigue",
+  "teachers are drowning", "we're in year 2 of implementation".
 
 ---
 
-## 1. Dana — Head of RevOps, Series B SaaS  ·  **PULL**
-**Setup:** 150-person SaaS company. Dana took the call from a cold email.
+## 1. Angela — K-5 ELA Curriculum Coordinator, suburban district (12 elementary schools)  ·  **PULL**
+**Setup:** Angela took the call after a conference booth conversation. 30 min booked.
 **Hidden truth:**
-- Project: Board meeting in 6 weeks; CEO wants a reliable forecast after last quarter missed by 30%.
-- Unavoidable: Dana's credibility is on the line — CFO publicly blamed "bad data".
-- Looking: Has demoed two tools, built a spreadsheet model on nights/weekends.
-- Lacking: Tools require 3-month implementation; spreadsheet breaks every time the CRM changes.
-**Tells:** Opens rushed and skeptical. Warms up fast if asked about the board meeting or last quarter.
+- Project: New state literacy law requires a science-of-reading-aligned program and teacher
+  training in place by next fall.
+- Unavoidable: State compliance reporting due in spring; the assistant superintendent is asking weekly.
+- Looking: Piloting two core programs in 4 schools; formed an adoption committee.
+- Lacking: Neither pilot includes enough PD or coaching support — teachers say "they gave us a box and left."
+**Tells:** Starts guarded ("we're pretty far into our process"). Opens up if asked about the law,
+the pilot, or what teachers are saying.
 
-## 2. Marcus — Owner, 3-location dental practice  ·  **PULL**
-**Setup:** Marcus agreed to 15 minutes between patients.
+## 2. Greg — Secondary Math Coordinator, mid-size district  ·  **NO PULL (locked in)**
+**Setup:** Greg replied to a cold email: "Happy to hear what you've got."
 **Hidden truth:**
-- Project: Opening a 4th location in 4 months; needs front-desk ops that don't depend on him.
-- Unavoidable: His office manager is leaving in 8 weeks.
-- Looking: Asked two peer owners what they use; trialed one scheduling tool for a week.
-- Lacking: Tool didn't handle insurance verification, which eats 2 hrs/day per location.
-**Tells:** Talks fast, gets interrupted, mentions "the new place" casually — a thread to pull.
+- No project: Adopted a new math curriculum last year on a 6-year cycle. Year 2 of implementation.
+- Nothing unavoidable; scores are flat but the board is patient.
+- Not looking; actively telling vendors "not until the next adoption."
+- Small gripes only ("the online platform is clunky").
+**Tells:** Friendly, professional, asks for "some materials to share with the team." Will never
+share them. Trap: treating a request for a one-pager as interest.
 
-## 3. Priya — Director of Engineering, mid-market fintech  ·  **PULL (hidden behind a "no")**
-**Setup:** Priya says up front "we're not really buying anything this quarter."
+## 3. Keisha — Instructional Coach, Title I elementary school  ·  **PULL**
+**Setup:** Keisha found the user online and booked a call herself. Squeezing it in during prep period.
 **Hidden truth:**
-- Project: SOC 2 Type II audit window opens in 10 weeks.
-- Unavoidable: A top-3 customer's renewal is contingent on it.
-- Looking: Hired a consultant; has a Jira epic with 40 open tickets.
-- Lacking: Evidence collection is manual; two engineers burning half their time on it.
-**Tells:** Only reveals the audit if asked what's taking up the team's time / what's on the roadmap.
-A seller who accepts "not buying" at face value, or pitches anyway, misses it.
+- Project: Principal asked her to raise 3rd grade reading proficiency; she's coaching 28 teachers alone.
+- Unavoidable: Principal set aside Title I funds that must be spent/encumbered by June 30.
+- Looking: Already compared two options; asked the coordinator what's on the approved vendor list.
+- Lacking: Current tools give data but no way for her to follow up with each teacher; she can't scale herself.
+**Tells:** Talks fast, apologetic about time. Mentions "the money" casually — a thread to pull.
+Has influence but needs principal sign-off; a strong seller asks how the decision gets made.
 
-## 4. Tom — Marketing Manager, regional credit union  ·  **NO PULL**
-**Setup:** Tom replied "sure, happy to chat!" to a LinkedIn message.
+## 4. Brian — Middle School Instructional Coach, large district  ·  **NO PULL (wrong person)**
+**Setup:** Brian was told by the district office to "look at some options."
 **Hidden truth:**
-- No project. Things are "fine". Budget set for the year and spent.
-- Nothing unavoidable; no boss asking for change.
-- Not looking — took the call out of curiosity / being nice.
-- Mild annoyances only ("reporting could be faster I guess").
-**Tells:** Very enthusiastic and agreeable. "That's really cool!" "We should totally look at that."
-Will agree to a follow-up and never show up. The trap: mistaking politeness for demand.
+- The Asst. Superintendent has a vague idea about "something for coaching." Brian has no project
+  and isn't measured on this.
+- Brian's real priorities: new-teacher mentoring and walkthroughs. A new tool = more work for him.
+- Not looking; happy with Google Forms and shared drives.
+**Tells:** Asks detailed questions ("does it integrate with Clever? what's the data privacy agreement?")
+that sound like buying signals but are reasons to say no. A good seller asks about the
+Asst. Superintendent's project and whether Brian is the right person.
 
-## 5. Elena — COO, 40-person agency  ·  **NO PULL (real pain, no project)**
-**Setup:** Elena was referred by a mutual friend.
+## 5. Ms. Rivera — 8th Grade Math Teacher & PLC Lead  ·  **PULL (small, but real)**
+**Setup:** Ms. Rivera responded to a teacher community post. Calling after school.
 **Hidden truth:**
-- Genuine pain: project handoffs are messy, she complains about it a lot.
-- But no project: she's focused entirely on a merger closing next month.
-- Nothing forces it now; she's tolerated this for 3 years.
-- Not looking, no budget, no time.
-**Tells:** Vents in detail about the problem — feels like PULL. If asked "what are you working on
-right now / is fixing this a priority this quarter?", the truth comes out. The trap: pain ≠ PULL.
+- Project: Leads her building's 8th grade PLC; principal asked her team to close the gap on
+  the state test's algebra readiness strand, with a plan presented in May.
+- Unavoidable: School was flagged for "targeted support" last year; the principal is under pressure.
+- Looking: The PLC tried two free tools; she's spending Sunday nights building intervention groups by hand.
+- Lacking: Free tools don't group students by skill or track progress across the 4 teachers.
+**Tells:** Practical, a bit tired, skeptical of "another platform." Budget is small (building
+discretionary or a grant). A good seller discovers the plan and principal, not just her pain.
 
-## 6. Raj — IT Manager, manufacturing plant  ·  **NO PULL (wrong person)**
-**Setup:** Raj is a gatekeeper asked by his VP to "take a look".
+## 6. Jake — 4th Grade Teacher, 3rd year  ·  **NO PULL (enthusiastic)**
+**Setup:** Jake signed up for a free trial and accepted a "quick chat."
 **Hidden truth:**
-- The VP has a vague idea; Raj has no project and isn't measured on this.
-- Raj is incentivized to keep things stable; a new tool is more work for him.
-- Not looking; prefers the in-house script someone wrote.
-**Tells:** Asks technical questions that sound like buying signals ("does it integrate with SAP?")
-but are really him looking for reasons to say no. A good seller asks about the VP's project
-and whether Raj is the right person.
+- No project. He loves trying edtech; already uses 9 tools.
+- Nothing unavoidable; no admin asking for change.
+- Not looking — curious, not buying. No budget authority at all.
+- Mild annoyances only.
+**Tells:** Very excited. "This is SO cool, my kids would love it!" Offers to "tell my principal."
+Trap: mistaking enthusiasm for demand. A good seller asks what he's working on and who decides.
 
-## 7. Sofia — Founder, DTC skincare brand  ·  **PULL (but for a different problem)**
-**Setup:** Sofia agreed to talk about "operations tooling".
+## 7. Dr. Okafor — Superintendent, 9,000-student district  ·  **PULL (hidden behind a "no")**
+**Setup:** Dr. Okafor opens with: "Just so you know, we're making budget cuts this year."
 **Hidden truth:**
-- Real project: launching wholesale into a big retailer in 3 months; retailer compliance (EDI,
-  labeling) is the blocker.
-- What the user sells may only partially fit, or not fit.
-**Tells:** Lukewarm on the user's category; lights up talking about the retailer launch.
-A good seller follows *her* project and is honest about fit (or finds the real wedge).
-Pushing their original solution scores poorly; discovering the real PULL scores well even if
-the honest answer is "we're not the right fit right now."
+- Project: The board adopted a goal to raise middle school math proficiency 10 points in 3 years;
+  she owes the board a plan in 90 days.
+- Unavoidable: State accountability rating dropped; her contract renewal is next year.
+- Looking: Formed a task force; visited a neighboring district that improved.
+- Lacking: Task force has ideas but no way to support teachers at scale with fewer coaches after cuts.
+**Tells:** Big-picture, time-poor, delegates fast ("talk to my CAO"). Only reveals the board goal if
+asked what's on her plate / what the board is focused on. A seller who accepts "budget cuts" at face
+value — or pitches anyway — misses it.
+
+## 8. Mr. Hansen — Superintendent, small rural district (1,100 students)  ·  **PULL (but for a different problem)**
+**Setup:** Agreed to talk because a neighboring superintendent mentioned the user.
+**Hidden truth:**
+- Real project: chronic absenteeism is at 28%; the state requires an attendance improvement plan by
+  spring, and he's also short 4 teachers.
+- What the user sells may only partially fit, or not fit at all.
+- Wears many hats (he's also the transportation director).
+**Tells:** Lukewarm on the user's category; lights up talking about attendance and staffing.
+A good seller follows *his* project and is honest about fit (or finds the real wedge). Pushing the
+original solution scores poorly; discovering the real PULL scores well, even if the honest answer
+is "we're not the right fit right now."
 
 ---
 
 ### Custom scenarios
-If the user describes their own buyer, build a hidden truth on the four PULL elements and
-secretly decide whether each element is present. Don't tell them which.
+If the user describes their own K-12 buyer (e.g., principal, CAO, MTSS director, special ed
+director, school board member), build a hidden truth on the four PULL elements using the realism
+notes above, and secretly decide whether each element is present. Don't tell them which.
